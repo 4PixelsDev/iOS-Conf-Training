@@ -33,8 +33,8 @@ class ViewController: UIViewController, MenuControllerDelegate {
         }
         
         
-        let aws_access_key = "***REMOVED***"
-        let aws_secret_access_key = "***REMOVED***"
+//        let aws_access_key = "***REMOVED***"
+//        let aws_secret_access_key = "***REMOVED***"
         
         menu.delegate = self
 
